@@ -9007,7 +9007,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   .ltn__category-item-5:hover {
     -webkit-box-shadow: var(--ltn__box-shadow-4);
     box-shadow: var(--ltn__box-shadow-4);
-    background-color: var(--ltn__secondary-color);
+    background-color: #66ae26;
     color: var(--white); }
     .ltn__category-item-5:hover .category-title {
       color: var(--white); }
@@ -9031,7 +9031,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   transition: all 0.3s ease 0s; }
 
 .ltn__category-item-5-2:hover {
-  background-color: var(--ltn__secondary-color); }
+  background-color: #66ae26; }
   .ltn__category-item-5-2:hover .category-number,
   .ltn__category-item-5-2:hover .category-brief {
     color: var(--white); }
@@ -14626,6 +14626,9 @@ input.cart-plus-minus-box {
   font-weight: 800;
 
 
+ }
+ .icon-cr{
+  color:#e4791b!important;
  }
 /* ----------------------------------------------------
     END
