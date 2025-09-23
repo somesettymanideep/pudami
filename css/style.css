@@ -7018,7 +7018,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     .ltn__slide-item-2 .slide-brief {
       padding-left: 15px; }
   .ltn__slide-item-3-normal {
-    padding-top: 100px; }
+    padding-top: 10px; }
   .ltn__product-pointer {
     display: none; }
   .ltn__slide-item-6 .slide-title {
@@ -14643,6 +14643,22 @@ input.cart-plus-minus-box {
  .b-lght-sh{
   background-color:#d5efbe;
  }
+@media (max-width: 575px) {
+ .text-gren-w{
+  color: #66ae26!important;
+
+ }
+ .ltn__slide-item {
+  padding-bottom:10px!important;
+ }
+}
+@media (min-width: 577px) {
+.text-gren-w{
+  color: #fff;
+
+ }
+}
+
 /* ----------------------------------------------------
     END
 ---------------------------------------------------- */
