@@ -1625,8 +1625,10 @@
         $('.ltn__search-by-place-slider-1-active').slick({
             arrows: true,
             dots: false,
+            autoplay: true,
+            autoplaySpeed: 3000,
             infinite: true,
-            speed: 300,
+            speed: 900,
             slidesToShow: 4,
             slidesToScroll: 1,
             prevArrow: '<a class="slick-prev"><i class="fas fa-arrow-left" alt="Arrow Icon"></i></a>',
